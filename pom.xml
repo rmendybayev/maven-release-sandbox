@@ -8,6 +8,8 @@
     <artifactId>sandbox</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
-
+    <scm>
+        <connection>scm:git:git@github.com:rmendybayev/maven-release-sandbox.git</connection>
+    </scm>
 
 </project>
