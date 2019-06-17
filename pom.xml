@@ -4,11 +4,11 @@
 
     <groupId>org.tpbgroup</groupId>
     <artifactId>sandbox</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.2</version>
 
     <scm>
         <connection>scm:git:git@github.com:rmendybayev/maven-release-sandbox.git</connection>
-      <tag>HEAD</tag>
+      <tag>v0.0.2</tag>
   </scm>
 
 </project>
