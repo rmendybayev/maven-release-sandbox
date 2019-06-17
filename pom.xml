@@ -12,6 +12,7 @@
     <scm>
         <connection>scm:git:git@github.com:rmendybayev/maven-release-sandbox.git</connection>
         <developerConnection>scm:git:git@github.com:rmendybayev/maven-release-sandbox.git</developerConnection>
+        <url>git@github.com:rmendybayev/maven-release-sandbox.git</url>
     </scm>
 
 </project>
