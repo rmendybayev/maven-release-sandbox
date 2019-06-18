@@ -4,7 +4,7 @@
 
     <groupId>org.tpbgroup</groupId>
     <artifactId>sandbox-commons</artifactId>
-    <version>v0.0.6</version>
+    <version>0.0.5-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>Sandbox parent pom</name>
@@ -13,7 +13,7 @@
         <connection>scm:git:git@github.com:rmendybayev/maven-release-sandbox.git</connection>
         <developerConnection>scm:git:git@github.com:rmendybayev/maven-release-sandbox.git</developerConnection>
         <url>git@github.com:rmendybayev/maven-release-sandbox.git</url>
-      <tag>v0.0.6</tag>
+      <tag>HEAD</tag>
   </scm>
 
 </project>
